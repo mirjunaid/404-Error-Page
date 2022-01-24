@@ -1,0 +1,33 @@
+body 
+{
+	background-color: #ff3333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Header{
+background-color: brown;
+font-size:50px;
+font-weight: 500;
+padding: 5%;
+}
+.greeting {
+    font-size: 40px;
+    font-family: monospace;
+    text-align: left;
+}
+.image {
+    background-color: whitesmoke;
+    align-content: center;
+    border-style: groove;
+    border-radius: 5%;
+    padding-left: 10px;
+}
+.button {
+    font-size: 20px;
+    font-family: monospace;
+    text-align: right;
+}
+.footer{
+   color: whitesmoke;
+    background-color: #000033;
+    border-style: solid;
+}
